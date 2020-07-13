@@ -1,0 +1,17 @@
+.App {
+  padding: 16px;
+  background-color: var(--secondary-lightest);
+}
+
+.App-body {
+  display: flex;
+  padding: 16px 0;
+}
+
+.App-editor {
+  border: var(--border);
+}
+
+.App-template {
+  margin-left: 32px;
+}

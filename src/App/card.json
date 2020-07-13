@@ -1,0 +1,13 @@
+{
+  "type": "Card",
+  "body": [
+    {
+      "type": "Text",
+      "children": "Sandesh"
+    },
+    {
+      "type": "Avatar",
+      "children": "Sandesh"
+    }
+  ]
+}
