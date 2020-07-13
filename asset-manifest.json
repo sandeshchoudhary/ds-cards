@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ds-cards/static/css/main.047dc825.chunk.css",
+    "main.js": "/ds-cards/static/js/main.d525c6d4.chunk.js",
+    "main.js.map": "/ds-cards/static/js/main.d525c6d4.chunk.js.map",
+    "runtime-main.js": "/ds-cards/static/js/runtime-main.14889c67.js",
+    "runtime-main.js.map": "/ds-cards/static/js/runtime-main.14889c67.js.map",
+    "static/css/2.15516355.chunk.css": "/ds-cards/static/css/2.15516355.chunk.css",
+    "static/js/2.5737f273.chunk.js": "/ds-cards/static/js/2.5737f273.chunk.js",
+    "static/js/2.5737f273.chunk.js.map": "/ds-cards/static/js/2.5737f273.chunk.js.map",
+    "static/js/3.095bbafe.chunk.js": "/ds-cards/static/js/3.095bbafe.chunk.js",
+    "static/js/3.095bbafe.chunk.js.map": "/ds-cards/static/js/3.095bbafe.chunk.js.map",
+    "editor.worker.js": "/ds-cards/editor.worker.js",
+    "editor.worker.js.map": "/ds-cards/editor.worker.js.map",
+    "index.html": "/ds-cards/index.html",
+    "json.worker.js": "/ds-cards/json.worker.js",
+    "json.worker.js.map": "/ds-cards/json.worker.js.map",
+    "precache-manifest.c48bf4cf68dfcc12f9ea271c847076dc.js": "/ds-cards/precache-manifest.c48bf4cf68dfcc12f9ea271c847076dc.js",
+    "service-worker.js": "/ds-cards/service-worker.js",
+    "static/css/2.15516355.chunk.css.map": "/ds-cards/static/css/2.15516355.chunk.css.map",
+    "static/css/main.047dc825.chunk.css.map": "/ds-cards/static/css/main.047dc825.chunk.css.map",
+    "static/js/2.5737f273.chunk.js.LICENSE.txt": "/ds-cards/static/js/2.5737f273.chunk.js.LICENSE.txt",
+    "static/media/codicon.css": "/ds-cards/static/media/codicon.a609dc0f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14889c67.js",
+    "static/css/2.15516355.chunk.css",
+    "static/js/2.5737f273.chunk.js",
+    "static/css/main.047dc825.chunk.css",
+    "static/js/main.d525c6d4.chunk.js"
+  ]
+}
