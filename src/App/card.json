@@ -2,12 +2,66 @@
   "type": "Card",
   "body": [
     {
-      "type": "Text",
-      "children": "Sandesh"
+      "type": "Row",
+      "className": "p-4",
+      "column": [
+        {
+          "type": "Column",
+          "size": "1",
+          "item": [
+            {
+              "type": "Avatar",
+              "children": "Ahmad",
+              "className": "m-4"
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "size": "11",
+          "item": [
+            {
+              "type": "ChipGroup",
+              "className": "m-4",
+              "list": [
+                {
+                  "type": "action",
+                  "label": "Action",
+                  "icon": "assessment"
+                },
+                {
+                  "type": "input",
+                  "label": "input",
+                  "icon": "assessment"
+                },
+                {
+                  "type": "selection",
+                  "label": "selection",
+                  "icon": "assessment",
+                  "selected": "true"
+                }
+              ]
+            },
+            {
+              "type": "Text",
+              "className": "mb-4",
+              "children": "Hello, my name is XYZ"
+            }
+          ]
+        }
+      ]
     },
     {
-      "type": "Avatar",
-      "children": "Sandesh"
+      "type": "Text",
+      "className": "p-4",
+      "children": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "type": "Button",
+      "children": "View",
+      "className": "m-4",
+      "appearance": "primary",
+      "size": "regular"
     }
   ]
 }
